@@ -6,7 +6,7 @@
  - 👨‍🎓 Estou cursando Analise e Desenvolvimento de Sistemas
  - 👨‍💻 Comecei minha carreira na área da T.I em 2022. Possuo experiência com suporte tecnico de 1 ano e 4 meses
  - 📊 Atualmente sou estagiario de Inteligencia de negocios.
- - 🔭 No momeno estou focado nas áreas de Análise e Ciência de Dados
+ - 🔭 No momeno estou focado nas áreas de Análise de Dados
 
 
 # 💻 Habilidades Tecnicas:
