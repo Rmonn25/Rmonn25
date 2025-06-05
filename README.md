@@ -1,18 +1,17 @@
-<h1 align="center">Olá! 👋 Prazer, sou o Ramon!</h1>
-<h3 align="center">Este é meu repositório de Análise de dados.</h3>
-
-<h2 align="left">🗨 Sobre mim:</h2>
-
- - 👨‍🎓 Estou cursando Analise e Desenvolvimento de Sistemas
- - 👨‍💻 Comecei minha carreira na área da T.I em 2022. Possuo experiência com suporte tecnico de 1 ano e 4 meses
- - 📊 Atualmente sou estagiario de Inteligencia de negocios.
- - 🔭 No momeno estou focado nas áreas de Análise de Dados
+# 💫 Sobre mim:
+- 👨‍💻 Atualmente sou Estagiario de inteligência de negócios <br>
+- 👨‍🎓 Estou cursando Analise e Desenvolvimento de Sistemas<br>
+- 🔭 Meu foco principal é se tornar Analista de dados Jr<br>
 
 
-# 💻 Habilidades Tecnicas:
-<div style="display: inline_block"><br>
-  <img alt="Ramon-python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-  <img alt="Ramon-mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
-  <img alt="Ramon-BI" height="40" width="40" src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000"/>
-  <img alt="Ramon-Excel" height="40" width="40" src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000/">
-</div>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ramonoliveira359/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ramon.oliveiraa359@gmail.com) 
+
+## 💻 Skills:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Rmonn25&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Rmonn25&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rmonn25&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
