@@ -1,6 +1,6 @@
 # 💫 Sobre mim:
-- 👨‍💻 Atualmente sou Estagiario de inteligência de negócios <br>
-- 👨‍🎓 Estou cursando Analise e Desenvolvimento de Sistemas<br>
+- 👨🏽‍💻 Atualmente sou Estagiario de inteligência de negócios <br>
+- 👨🏽‍🎓 Estou cursando Analise e Desenvolvimento de Sistemas<br>
 - 🔭 Meu foco principal é se tornar Analista de dados Jr<br>
 
 
